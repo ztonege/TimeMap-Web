@@ -4,4 +4,4 @@ It's also a personal assitant that reminds you of your upcoming events and the t
 
 <https://TimeMap.github.io>
 
-* This is the code for the web version of the app.
+* This is the code for the web version and server of the app.
